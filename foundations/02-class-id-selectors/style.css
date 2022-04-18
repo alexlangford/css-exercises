@@ -1,0 +1,15 @@
+.paragraphs {
+    background-color: rgb(221, 63, 142);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#second-div {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#fourth-div {
+    background-color: #aff7af;
+    font-size: 24px;
+    font-weight: bold;
+}
